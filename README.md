@@ -9,7 +9,9 @@ Final code for random forest at zip level - RF_zip.R  <br>
 Final code for neural network model - neural_network_zip.R  <br>
 Final linear model - linear model.R <br>
 Code for cleaning the energy profile data - energy_profile_data_clean.R <br>
-Code for cleaning other dataset(some dataset cleaning done in the individual models only) - Data_cleaning.R
+Code for cleaning other dataset(some dataset cleaning done in the individual models only) - Data_cleaning.R <br>
+
+The final result for all the models are given in the table - <br>
 
 ![Final results for all the models](Images/Final_table.png)
 
