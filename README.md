@@ -13,7 +13,10 @@ Code for cleaning other dataset(some dataset cleaning done in the individual mod
 
 The final result for all the models are given in the table - <br>
 
-![Final results for all the models](Images/Final_table.png)
+![Final results for all the models](Images/Final_table.png) <br>
+
+A neural network was performed at the zip code level using two hidden layers consisting of 5 and 3 nodes respectively. The network is shown in Figure given below. The test RMSE is 81(13.63%), which is better than the RMSE obtained on ZIP level Random Forest. Therefore, with more hyperparameter tuning, neural network could potentially lower the RMSE even more.  <br>
+
 
 
 
