@@ -11,7 +11,7 @@ Final linear model - linear model.R <br>
 Code for cleaning the energy profile data - energy_profile_data_clean.R <br>
 Code for cleaning other dataset(some dataset cleaning done in the individual models only) - Data_cleaning.R
 
-
+![Final results for all the models](Images/Result_with_neural_network.png)
 
 
 
